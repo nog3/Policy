@@ -71,6 +71,7 @@ are:
    is greater.
 2. The cause leader has a discretionary amount as determined by the Treasurer.
    (Currently $100/m but can not exceed cause budget)
+3. Causes may (at the discretion of the Treasurer) be donated directly to by Members, Non-members and Corporate entities.
 
 Otherwise, a cause operates as does the larger group, to highlight a few key
 points:
@@ -79,7 +80,7 @@ points:
   * Quorum at a meeting.
   * Adequate public notice.
   * Minutes accessible to the whole group.
-2. Five days notice to cause members for financial meeting items
+2. Five days notice to all HSBNE members for financial meeting items.
 
 ### Causes are not Silos
 
@@ -87,7 +88,7 @@ A cause empowers you and people with similar interests to direct funds
 appropriately within your own consensus. It does not, in any way allow you to:
 
 * Deny general membership access to a cause maintained area
-* Deny non cause members to any equipment, tools, consumables or classes.
+* Deny non cause members to any meetings, equipment, tools, consumables or classes.
 
 ### Legal Mumbo Jumbo
 
